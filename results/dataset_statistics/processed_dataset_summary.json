@@ -1,0 +1,4010 @@
+{
+  "total_processed_samples": 170,
+  "target_size": [
+    256,
+    256
+  ],
+  "total_pixels_across_dataset": 11141120,
+  "total_foreground_pixels": 1925183,
+  "total_background_pixels": 9215937,
+  "overall_foreground_percentage": 17.28,
+  "mean_foreground_pct_per_image": 17.28,
+  "std_foreground_pct_per_image": 7.6635,
+  "min_foreground_pct": 4.8523,
+  "max_foreground_pct": 42.4179,
+  "samples": [
+    {
+      "sample_id": "FudanPed00001",
+      "orig_size": [
+        559,
+        536
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 6325,
+      "foreground_pct": 9.6512
+    },
+    {
+      "sample_id": "FudanPed00002",
+      "orig_size": [
+        455,
+        414
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 4769,
+      "foreground_pct": 7.2769
+    },
+    {
+      "sample_id": "FudanPed00003",
+      "orig_size": [
+        479,
+        445
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 4581,
+      "foreground_pct": 6.9901
+    },
+    {
+      "sample_id": "FudanPed00004",
+      "orig_size": [
+        396,
+        397
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 7115,
+      "foreground_pct": 10.8566
+    },
+    {
+      "sample_id": "FudanPed00005",
+      "orig_size": [
+        335,
+        344
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 8361,
+      "foreground_pct": 12.7579
+    },
+    {
+      "sample_id": "FudanPed00006",
+      "orig_size": [
+        385,
+        426
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 10879,
+      "foreground_pct": 16.6
+    },
+    {
+      "sample_id": "FudanPed00007",
+      "orig_size": [
+        539,
+        381
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 10604,
+      "foreground_pct": 16.1804
+    },
+    {
+      "sample_id": "FudanPed00008",
+      "orig_size": [
+        388,
+        454
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 7570,
+      "foreground_pct": 11.5509
+    },
+    {
+      "sample_id": "FudanPed00009",
+      "orig_size": [
+        465,
+        441
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 9368,
+      "foreground_pct": 14.2944
+    },
+    {
+      "sample_id": "FudanPed00010",
+      "orig_size": [
+        411,
+        393
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 6024,
+      "foreground_pct": 9.1919
+    },
+    {
+      "sample_id": "FudanPed00011",
+      "orig_size": [
+        459,
+        420
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 5703,
+      "foreground_pct": 8.7021
+    },
+    {
+      "sample_id": "FudanPed00012",
+      "orig_size": [
+        468,
+        384
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 10252,
+      "foreground_pct": 15.6433
+    },
+    {
+      "sample_id": "FudanPed00013",
+      "orig_size": [
+        652,
+        498
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 3318,
+      "foreground_pct": 5.0629
+    },
+    {
+      "sample_id": "FudanPed00014",
+      "orig_size": [
+        456,
+        383
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 5770,
+      "foreground_pct": 8.8043
+    },
+    {
+      "sample_id": "FudanPed00015",
+      "orig_size": [
+        336,
+        349
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 8444,
+      "foreground_pct": 12.8845
+    },
+    {
+      "sample_id": "FudanPed00016",
+      "orig_size": [
+        544,
+        425
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 11752,
+      "foreground_pct": 17.9321
+    },
+    {
+      "sample_id": "FudanPed00017",
+      "orig_size": [
+        266,
+        342
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 10669,
+      "foreground_pct": 16.2796
+    },
+    {
+      "sample_id": "FudanPed00018",
+      "orig_size": [
+        253,
+        323
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 10992,
+      "foreground_pct": 16.7725
+    },
+    {
+      "sample_id": "FudanPed00019",
+      "orig_size": [
+        497,
+        442
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 8938,
+      "foreground_pct": 13.6383
+    },
+    {
+      "sample_id": "FudanPed00020",
+      "orig_size": [
+        555,
+        417
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 4393,
+      "foreground_pct": 6.7032
+    },
+    {
+      "sample_id": "FudanPed00021",
+      "orig_size": [
+        490,
+        378
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 6282,
+      "foreground_pct": 9.5856
+    },
+    {
+      "sample_id": "FudanPed00022",
+      "orig_size": [
+        536,
+        465
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 8800,
+      "foreground_pct": 13.4277
+    },
+    {
+      "sample_id": "FudanPed00023",
+      "orig_size": [
+        376,
+        378
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 6234,
+      "foreground_pct": 9.5123
+    },
+    {
+      "sample_id": "FudanPed00024",
+      "orig_size": [
+        479,
+        378
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 5452,
+      "foreground_pct": 8.3191
+    },
+    {
+      "sample_id": "FudanPed00025",
+      "orig_size": [
+        425,
+        369
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 6,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 18767,
+      "foreground_pct": 28.6362
+    },
+    {
+      "sample_id": "FudanPed00026",
+      "orig_size": [
+        440,
+        427
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 11659,
+      "foreground_pct": 17.7902
+    },
+    {
+      "sample_id": "FudanPed00027",
+      "orig_size": [
+        302,
+        363
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 8021,
+      "foreground_pct": 12.2391
+    },
+    {
+      "sample_id": "FudanPed00028",
+      "orig_size": [
+        317,
+        345
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 17963,
+      "foreground_pct": 27.4094
+    },
+    {
+      "sample_id": "FudanPed00029",
+      "orig_size": [
+        435,
+        404
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 4932,
+      "foreground_pct": 7.5256
+    },
+    {
+      "sample_id": "FudanPed00030",
+      "orig_size": [
+        462,
+        387
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 6168,
+      "foreground_pct": 9.4116
+    },
+    {
+      "sample_id": "FudanPed00031",
+      "orig_size": [
+        569,
+        430
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 4045,
+      "foreground_pct": 6.1722
+    },
+    {
+      "sample_id": "FudanPed00032",
+      "orig_size": [
+        608,
+        474
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 3180,
+      "foreground_pct": 4.8523
+    },
+    {
+      "sample_id": "FudanPed00033",
+      "orig_size": [
+        396,
+        357
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 6594,
+      "foreground_pct": 10.0616
+    },
+    {
+      "sample_id": "FudanPed00034",
+      "orig_size": [
+        309,
+        351
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 10154,
+      "foreground_pct": 15.4938
+    },
+    {
+      "sample_id": "FudanPed00035",
+      "orig_size": [
+        292,
+        349
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 9409,
+      "foreground_pct": 14.357
+    },
+    {
+      "sample_id": "FudanPed00036",
+      "orig_size": [
+        1017,
+        444
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 4,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 6257,
+      "foreground_pct": 9.5474
+    },
+    {
+      "sample_id": "FudanPed00037",
+      "orig_size": [
+        423,
+        361
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 6384,
+      "foreground_pct": 9.7412
+    },
+    {
+      "sample_id": "FudanPed00038",
+      "orig_size": [
+        422,
+        346
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 6348,
+      "foreground_pct": 9.6863
+    },
+    {
+      "sample_id": "FudanPed00039",
+      "orig_size": [
+        493,
+        487
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 5797,
+      "foreground_pct": 8.8455
+    },
+    {
+      "sample_id": "FudanPed00040",
+      "orig_size": [
+        550,
+        482
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 7244,
+      "foreground_pct": 11.0535
+    },
+    {
+      "sample_id": "FudanPed00041",
+      "orig_size": [
+        552,
+        507
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 7637,
+      "foreground_pct": 11.6531
+    },
+    {
+      "sample_id": "FudanPed00042",
+      "orig_size": [
+        588,
+        547
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 6326,
+      "foreground_pct": 9.6527
+    },
+    {
+      "sample_id": "FudanPed00043",
+      "orig_size": [
+        493,
+        518
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 12264,
+      "foreground_pct": 18.7134
+    },
+    {
+      "sample_id": "FudanPed00044",
+      "orig_size": [
+        521,
+        494
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 4,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 18346,
+      "foreground_pct": 27.9938
+    },
+    {
+      "sample_id": "FudanPed00045",
+      "orig_size": [
+        487,
+        538
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 11837,
+      "foreground_pct": 18.0618
+    },
+    {
+      "sample_id": "FudanPed00046",
+      "orig_size": [
+        567,
+        438
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 4,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 9708,
+      "foreground_pct": 14.8132
+    },
+    {
+      "sample_id": "FudanPed00047",
+      "orig_size": [
+        472,
+        520
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 6393,
+      "foreground_pct": 9.7549
+    },
+    {
+      "sample_id": "FudanPed00048",
+      "orig_size": [
+        585,
+        559
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 4,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 11208,
+      "foreground_pct": 17.1021
+    },
+    {
+      "sample_id": "FudanPed00049",
+      "orig_size": [
+        447,
+        512
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 13862,
+      "foreground_pct": 21.1517
+    },
+    {
+      "sample_id": "FudanPed00050",
+      "orig_size": [
+        580,
+        516
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 5716,
+      "foreground_pct": 8.7219
+    },
+    {
+      "sample_id": "FudanPed00051",
+      "orig_size": [
+        448,
+        501
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 4695,
+      "foreground_pct": 7.164
+    },
+    {
+      "sample_id": "FudanPed00052",
+      "orig_size": [
+        461,
+        504
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 5308,
+      "foreground_pct": 8.0994
+    },
+    {
+      "sample_id": "FudanPed00053",
+      "orig_size": [
+        541,
+        580
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 7333,
+      "foreground_pct": 11.1893
+    },
+    {
+      "sample_id": "FudanPed00054",
+      "orig_size": [
+        533,
+        498
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 8174,
+      "foreground_pct": 12.4725
+    },
+    {
+      "sample_id": "FudanPed00055",
+      "orig_size": [
+        390,
+        555
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 7410,
+      "foreground_pct": 11.3068
+    },
+    {
+      "sample_id": "FudanPed00056",
+      "orig_size": [
+        565,
+        581
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 8839,
+      "foreground_pct": 13.4872
+    },
+    {
+      "sample_id": "FudanPed00057",
+      "orig_size": [
+        482,
+        519
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 5,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 13432,
+      "foreground_pct": 20.4956
+    },
+    {
+      "sample_id": "FudanPed00058",
+      "orig_size": [
+        522,
+        479
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 8,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 10950,
+      "foreground_pct": 16.7084
+    },
+    {
+      "sample_id": "FudanPed00059",
+      "orig_size": [
+        576,
+        369
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 14589,
+      "foreground_pct": 22.261
+    },
+    {
+      "sample_id": "FudanPed00060",
+      "orig_size": [
+        517,
+        440
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 13767,
+      "foreground_pct": 21.0068
+    },
+    {
+      "sample_id": "FudanPed00061",
+      "orig_size": [
+        547,
+        407
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 14883,
+      "foreground_pct": 22.7097
+    },
+    {
+      "sample_id": "FudanPed00062",
+      "orig_size": [
+        414,
+        341
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 13593,
+      "foreground_pct": 20.7413
+    },
+    {
+      "sample_id": "FudanPed00063",
+      "orig_size": [
+        486,
+        359
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 5,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 12756,
+      "foreground_pct": 19.4641
+    },
+    {
+      "sample_id": "FudanPed00064",
+      "orig_size": [
+        546,
+        420
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 13323,
+      "foreground_pct": 20.3293
+    },
+    {
+      "sample_id": "FudanPed00065",
+      "orig_size": [
+        504,
+        411
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 5,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 21388,
+      "foreground_pct": 32.6355
+    },
+    {
+      "sample_id": "FudanPed00066",
+      "orig_size": [
+        360,
+        359
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 7627,
+      "foreground_pct": 11.6379
+    },
+    {
+      "sample_id": "FudanPed00067",
+      "orig_size": [
+        453,
+        416
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 5649,
+      "foreground_pct": 8.6197
+    },
+    {
+      "sample_id": "FudanPed00068",
+      "orig_size": [
+        375,
+        398
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 5559,
+      "foreground_pct": 8.4824
+    },
+    {
+      "sample_id": "FudanPed00069",
+      "orig_size": [
+        354,
+        379
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 7152,
+      "foreground_pct": 10.9131
+    },
+    {
+      "sample_id": "FudanPed00070",
+      "orig_size": [
+        390,
+        382
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 7314,
+      "foreground_pct": 11.1603
+    },
+    {
+      "sample_id": "FudanPed00071",
+      "orig_size": [
+        363,
+        353
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 16278,
+      "foreground_pct": 24.8383
+    },
+    {
+      "sample_id": "FudanPed00072",
+      "orig_size": [
+        375,
+        349
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 7610,
+      "foreground_pct": 11.6119
+    },
+    {
+      "sample_id": "FudanPed00073",
+      "orig_size": [
+        516,
+        392
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 10263,
+      "foreground_pct": 15.6601
+    },
+    {
+      "sample_id": "FudanPed00074",
+      "orig_size": [
+        421,
+        370
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 11219,
+      "foreground_pct": 17.1188
+    },
+    {
+      "sample_id": "PennPed00001",
+      "orig_size": [
+        612,
+        406
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 5,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 18568,
+      "foreground_pct": 28.3325
+    },
+    {
+      "sample_id": "PennPed00002",
+      "orig_size": [
+        745,
+        378
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 6,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 16013,
+      "foreground_pct": 24.4339
+    },
+    {
+      "sample_id": "PennPed00003",
+      "orig_size": [
+        670,
+        418
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 13436,
+      "foreground_pct": 20.5017
+    },
+    {
+      "sample_id": "PennPed00004",
+      "orig_size": [
+        786,
+        436
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 5,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 16306,
+      "foreground_pct": 24.881
+    },
+    {
+      "sample_id": "PennPed00005",
+      "orig_size": [
+        767,
+        454
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 5,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 13668,
+      "foreground_pct": 20.8557
+    },
+    {
+      "sample_id": "PennPed00006",
+      "orig_size": [
+        631,
+        436
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 4,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 14843,
+      "foreground_pct": 22.6486
+    },
+    {
+      "sample_id": "PennPed00007",
+      "orig_size": [
+        570,
+        412
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 5,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 20574,
+      "foreground_pct": 31.3934
+    },
+    {
+      "sample_id": "PennPed00008",
+      "orig_size": [
+        452,
+        403
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 4,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 16079,
+      "foreground_pct": 24.5346
+    },
+    {
+      "sample_id": "PennPed00009",
+      "orig_size": [
+        648,
+        413
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 7,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 18532,
+      "foreground_pct": 28.2776
+    },
+    {
+      "sample_id": "PennPed00010",
+      "orig_size": [
+        750,
+        495
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 6,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 22323,
+      "foreground_pct": 34.0622
+    },
+    {
+      "sample_id": "PennPed00011",
+      "orig_size": [
+        508,
+        376
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 7937,
+      "foreground_pct": 12.1109
+    },
+    {
+      "sample_id": "PennPed00012",
+      "orig_size": [
+        565,
+        429
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 3579,
+      "foreground_pct": 5.4611
+    },
+    {
+      "sample_id": "PennPed00013",
+      "orig_size": [
+        564,
+        385
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 4,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 15317,
+      "foreground_pct": 23.3719
+    },
+    {
+      "sample_id": "PennPed00014",
+      "orig_size": [
+        542,
+        368
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 4,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 14521,
+      "foreground_pct": 22.1573
+    },
+    {
+      "sample_id": "PennPed00015",
+      "orig_size": [
+        906,
+        438
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 8928,
+      "foreground_pct": 13.623
+    },
+    {
+      "sample_id": "PennPed00016",
+      "orig_size": [
+        683,
+        399
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 11212,
+      "foreground_pct": 17.1082
+    },
+    {
+      "sample_id": "PennPed00017",
+      "orig_size": [
+        492,
+        403
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 11012,
+      "foreground_pct": 16.803
+    },
+    {
+      "sample_id": "PennPed00018",
+      "orig_size": [
+        460,
+        344
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 10448,
+      "foreground_pct": 15.9424
+    },
+    {
+      "sample_id": "PennPed00019",
+      "orig_size": [
+        734,
+        404
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 7,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 23039,
+      "foreground_pct": 35.1547
+    },
+    {
+      "sample_id": "PennPed00020",
+      "orig_size": [
+        721,
+        428
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 9554,
+      "foreground_pct": 14.5782
+    },
+    {
+      "sample_id": "PennPed00021",
+      "orig_size": [
+        712,
+        436
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 11241,
+      "foreground_pct": 17.1524
+    },
+    {
+      "sample_id": "PennPed00022",
+      "orig_size": [
+        925,
+        486
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 5,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 9303,
+      "foreground_pct": 14.1953
+    },
+    {
+      "sample_id": "PennPed00023",
+      "orig_size": [
+        536,
+        382
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 5481,
+      "foreground_pct": 8.3633
+    },
+    {
+      "sample_id": "PennPed00024",
+      "orig_size": [
+        409,
+        384
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 7341,
+      "foreground_pct": 11.2015
+    },
+    {
+      "sample_id": "PennPed00025",
+      "orig_size": [
+        450,
+        334
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 10055,
+      "foreground_pct": 15.3427
+    },
+    {
+      "sample_id": "PennPed00026",
+      "orig_size": [
+        530,
+        410
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 8106,
+      "foreground_pct": 12.3688
+    },
+    {
+      "sample_id": "PennPed00027",
+      "orig_size": [
+        492,
+        391
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 17405,
+      "foreground_pct": 26.5579
+    },
+    {
+      "sample_id": "PennPed00028",
+      "orig_size": [
+        416,
+        368
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 5562,
+      "foreground_pct": 8.4869
+    },
+    {
+      "sample_id": "PennPed00029",
+      "orig_size": [
+        672,
+        418
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 4,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 15319,
+      "foreground_pct": 23.3749
+    },
+    {
+      "sample_id": "PennPed00030",
+      "orig_size": [
+        479,
+        354
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 21543,
+      "foreground_pct": 32.872
+    },
+    {
+      "sample_id": "PennPed00031",
+      "orig_size": [
+        487,
+        340
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 6653,
+      "foreground_pct": 10.1517
+    },
+    {
+      "sample_id": "PennPed00032",
+      "orig_size": [
+        374,
+        344
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 6109,
+      "foreground_pct": 9.3216
+    },
+    {
+      "sample_id": "PennPed00033",
+      "orig_size": [
+        533,
+        391
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 4,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 19293,
+      "foreground_pct": 29.4388
+    },
+    {
+      "sample_id": "PennPed00034",
+      "orig_size": [
+        538,
+        422
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 4,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 17405,
+      "foreground_pct": 26.5579
+    },
+    {
+      "sample_id": "PennPed00035",
+      "orig_size": [
+        623,
+        353
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 12533,
+      "foreground_pct": 19.1238
+    },
+    {
+      "sample_id": "PennPed00036",
+      "orig_size": [
+        694,
+        370
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 8120,
+      "foreground_pct": 12.3901
+    },
+    {
+      "sample_id": "PennPed00037",
+      "orig_size": [
+        366,
+        318
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 9434,
+      "foreground_pct": 14.3951
+    },
+    {
+      "sample_id": "PennPed00038",
+      "orig_size": [
+        436,
+        353
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 5872,
+      "foreground_pct": 8.96
+    },
+    {
+      "sample_id": "PennPed00039",
+      "orig_size": [
+        495,
+        373
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 5093,
+      "foreground_pct": 7.7713
+    },
+    {
+      "sample_id": "PennPed00040",
+      "orig_size": [
+        406,
+        342
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 9352,
+      "foreground_pct": 14.27
+    },
+    {
+      "sample_id": "PennPed00041",
+      "orig_size": [
+        570,
+        422
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 4172,
+      "foreground_pct": 6.366
+    },
+    {
+      "sample_id": "PennPed00042",
+      "orig_size": [
+        569,
+        344
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 7868,
+      "foreground_pct": 12.0056
+    },
+    {
+      "sample_id": "PennPed00043",
+      "orig_size": [
+        480,
+        356
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 5,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 17406,
+      "foreground_pct": 26.5594
+    },
+    {
+      "sample_id": "PennPed00044",
+      "orig_size": [
+        483,
+        335
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 4,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 16731,
+      "foreground_pct": 25.5295
+    },
+    {
+      "sample_id": "PennPed00045",
+      "orig_size": [
+        692,
+        395
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 6,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 19560,
+      "foreground_pct": 29.8462
+    },
+    {
+      "sample_id": "PennPed00046",
+      "orig_size": [
+        534,
+        348
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 11799,
+      "foreground_pct": 18.0038
+    },
+    {
+      "sample_id": "PennPed00047",
+      "orig_size": [
+        500,
+        346
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 15594,
+      "foreground_pct": 23.7946
+    },
+    {
+      "sample_id": "PennPed00048",
+      "orig_size": [
+        423,
+        380
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 21802,
+      "foreground_pct": 33.2672
+    },
+    {
+      "sample_id": "PennPed00049",
+      "orig_size": [
+        452,
+        350
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 4,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 17577,
+      "foreground_pct": 26.8204
+    },
+    {
+      "sample_id": "PennPed00050",
+      "orig_size": [
+        419,
+        315
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 6665,
+      "foreground_pct": 10.17
+    },
+    {
+      "sample_id": "PennPed00051",
+      "orig_size": [
+        723,
+        411
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 4,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 13669,
+      "foreground_pct": 20.8572
+    },
+    {
+      "sample_id": "PennPed00052",
+      "orig_size": [
+        682,
+        525
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 5,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 12296,
+      "foreground_pct": 18.7622
+    },
+    {
+      "sample_id": "PennPed00053",
+      "orig_size": [
+        377,
+        344
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 16824,
+      "foreground_pct": 25.6714
+    },
+    {
+      "sample_id": "PennPed00054",
+      "orig_size": [
+        324,
+        334
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 10137,
+      "foreground_pct": 15.4678
+    },
+    {
+      "sample_id": "PennPed00055",
+      "orig_size": [
+        417,
+        353
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 12601,
+      "foreground_pct": 19.2276
+    },
+    {
+      "sample_id": "PennPed00056",
+      "orig_size": [
+        618,
+        420
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 9192,
+      "foreground_pct": 14.0259
+    },
+    {
+      "sample_id": "PennPed00057",
+      "orig_size": [
+        371,
+        364
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 10493,
+      "foreground_pct": 16.011
+    },
+    {
+      "sample_id": "PennPed00058",
+      "orig_size": [
+        509,
+        380
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 4,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 15569,
+      "foreground_pct": 23.7564
+    },
+    {
+      "sample_id": "PennPed00059",
+      "orig_size": [
+        582,
+        362
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 9776,
+      "foreground_pct": 14.917
+    },
+    {
+      "sample_id": "PennPed00060",
+      "orig_size": [
+        505,
+        351
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 5,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 27799,
+      "foreground_pct": 42.4179
+    },
+    {
+      "sample_id": "PennPed00061",
+      "orig_size": [
+        314,
+        320
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 12444,
+      "foreground_pct": 18.988
+    },
+    {
+      "sample_id": "PennPed00062",
+      "orig_size": [
+        396,
+        315
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 4,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 24316,
+      "foreground_pct": 37.1033
+    },
+    {
+      "sample_id": "PennPed00063",
+      "orig_size": [
+        427,
+        350
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 9151,
+      "foreground_pct": 13.9633
+    },
+    {
+      "sample_id": "PennPed00064",
+      "orig_size": [
+        370,
+        322
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 8054,
+      "foreground_pct": 12.2894
+    },
+    {
+      "sample_id": "PennPed00065",
+      "orig_size": [
+        324,
+        318
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 11359,
+      "foreground_pct": 17.3325
+    },
+    {
+      "sample_id": "PennPed00066",
+      "orig_size": [
+        428,
+        375
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 15770,
+      "foreground_pct": 24.0631
+    },
+    {
+      "sample_id": "PennPed00067",
+      "orig_size": [
+        370,
+        318
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 8357,
+      "foreground_pct": 12.7518
+    },
+    {
+      "sample_id": "PennPed00068",
+      "orig_size": [
+        603,
+        387
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 4,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 14998,
+      "foreground_pct": 22.8851
+    },
+    {
+      "sample_id": "PennPed00069",
+      "orig_size": [
+        388,
+        345
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 16168,
+      "foreground_pct": 24.6704
+    },
+    {
+      "sample_id": "PennPed00070",
+      "orig_size": [
+        466,
+        354
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 14981,
+      "foreground_pct": 22.8592
+    },
+    {
+      "sample_id": "PennPed00071",
+      "orig_size": [
+        767,
+        379
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 6,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 16023,
+      "foreground_pct": 24.4492
+    },
+    {
+      "sample_id": "PennPed00072",
+      "orig_size": [
+        473,
+        348
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 14546,
+      "foreground_pct": 22.1954
+    },
+    {
+      "sample_id": "PennPed00073",
+      "orig_size": [
+        579,
+        364
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 14368,
+      "foreground_pct": 21.9238
+    },
+    {
+      "sample_id": "PennPed00074",
+      "orig_size": [
+        442,
+        332
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 16567,
+      "foreground_pct": 25.2792
+    },
+    {
+      "sample_id": "PennPed00075",
+      "orig_size": [
+        368,
+        322
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 8868,
+      "foreground_pct": 13.5315
+    },
+    {
+      "sample_id": "PennPed00076",
+      "orig_size": [
+        342,
+        348
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 9493,
+      "foreground_pct": 14.4852
+    },
+    {
+      "sample_id": "PennPed00077",
+      "orig_size": [
+        352,
+        323
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 8764,
+      "foreground_pct": 13.3728
+    },
+    {
+      "sample_id": "PennPed00078",
+      "orig_size": [
+        349,
+        372
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 8825,
+      "foreground_pct": 13.4659
+    },
+    {
+      "sample_id": "PennPed00079",
+      "orig_size": [
+        357,
+        337
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 8119,
+      "foreground_pct": 12.3886
+    },
+    {
+      "sample_id": "PennPed00080",
+      "orig_size": [
+        435,
+        361
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 22350,
+      "foreground_pct": 34.1034
+    },
+    {
+      "sample_id": "PennPed00081",
+      "orig_size": [
+        561,
+        387
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 15853,
+      "foreground_pct": 24.1898
+    },
+    {
+      "sample_id": "PennPed00082",
+      "orig_size": [
+        398,
+        321
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 8834,
+      "foreground_pct": 13.4796
+    },
+    {
+      "sample_id": "PennPed00083",
+      "orig_size": [
+        371,
+        341
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 16589,
+      "foreground_pct": 25.3128
+    },
+    {
+      "sample_id": "PennPed00084",
+      "orig_size": [
+        370,
+        356
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 18314,
+      "foreground_pct": 27.9449
+    },
+    {
+      "sample_id": "PennPed00085",
+      "orig_size": [
+        403,
+        341
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 14939,
+      "foreground_pct": 22.7951
+    },
+    {
+      "sample_id": "PennPed00086",
+      "orig_size": [
+        474,
+        354
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 5,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 21385,
+      "foreground_pct": 32.6309
+    },
+    {
+      "sample_id": "PennPed00087",
+      "orig_size": [
+        325,
+        343
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 11582,
+      "foreground_pct": 17.6727
+    },
+    {
+      "sample_id": "PennPed00088",
+      "orig_size": [
+        375,
+        320
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 9469,
+      "foreground_pct": 14.4485
+    },
+    {
+      "sample_id": "PennPed00089",
+      "orig_size": [
+        428,
+        317
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 14135,
+      "foreground_pct": 21.5683
+    },
+    {
+      "sample_id": "PennPed00090",
+      "orig_size": [
+        500,
+        370
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 3,
+      "raw_unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 16522,
+      "foreground_pct": 25.2106
+    },
+    {
+      "sample_id": "PennPed00091",
+      "orig_size": [
+        372,
+        324
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 9825,
+      "foreground_pct": 14.9918
+    },
+    {
+      "sample_id": "PennPed00092",
+      "orig_size": [
+        600,
+        447
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 10225,
+      "foreground_pct": 15.6021
+    },
+    {
+      "sample_id": "PennPed00093",
+      "orig_size": [
+        368,
+        311
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 9888,
+      "foreground_pct": 15.0879
+    },
+    {
+      "sample_id": "PennPed00094",
+      "orig_size": [
+        422,
+        349
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 1,
+      "raw_unique_values": [
+        0,
+        1
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 7089,
+      "foreground_pct": 10.817
+    },
+    {
+      "sample_id": "PennPed00095",
+      "orig_size": [
+        512,
+        375
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 10465,
+      "foreground_pct": 15.9683
+    },
+    {
+      "sample_id": "PennPed00096",
+      "orig_size": [
+        294,
+        331
+      ],
+      "processed_size": [
+        256,
+        256
+      ],
+      "instance_count": 2,
+      "raw_unique_values": [
+        0,
+        1,
+        2
+      ],
+      "binary_unique_values": [
+        0,
+        1
+      ],
+      "foreground_pixels": 23984,
+      "foreground_pct": 36.5967
+    }
+  ]
+}

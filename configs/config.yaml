@@ -1,0 +1,36 @@
+# Configuration for Penn-Fudan Person Segmentation Dataset Engineering
+
+dataset:
+  name: "Penn-Fudan Pedestrian Database"
+  url: "https://www.cis.upenn.edu/~jshi/ped_html/PennFudanPed.zip"
+  zip_filename: "PennFudanPed.zip"
+  expected_images: 170
+  expected_masks: 170
+  expected_instances: 345
+
+paths:
+  raw_dir: "data/raw"
+  processed_images_dir: "data/processed/images"
+  processed_masks_dir: "data/processed/masks"
+  splits_dir: "splits"
+  sample_results_dir: "results/dataset_samples"
+  statistics_results_dir: "results/dataset_statistics"
+
+preprocessing:
+  target_size: [256, 256] # [width, height]
+  image_interpolation: "bilinear"
+  mask_interpolation: "nearest"
+  image_format: "RGB"
+  mask_format: "L"
+  binary_threshold: 0
+
+splits:
+  random_seed: 42
+  train_ratio: 0.70
+  val_ratio: 0.15
+  test_ratio: 0.15
+
+visualization:
+  num_sample_images: 8
+  overlay_alpha: 0.45
+  overlay_color: [0, 255, 0] # Green for pedestrian mask

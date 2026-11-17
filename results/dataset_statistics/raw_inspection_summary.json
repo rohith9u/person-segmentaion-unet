@@ -1,0 +1,33 @@
+{
+  "num_images": 170,
+  "num_masks": 170,
+  "all_pairs_matched": true,
+  "unmatched_images": [],
+  "unmatched_masks": [],
+  "image_formats": [
+    "PNG"
+  ],
+  "image_modes": [
+    "RGB"
+  ],
+  "mask_modes": [
+    "L"
+  ],
+  "total_pedestrian_instances": 423,
+  "min_width": 253,
+  "max_width": 1017,
+  "mean_width": 491.77647058823527,
+  "min_height": 311,
+  "max_height": 581,
+  "mean_height": 396.50588235294117,
+  "pedestrians_per_image_distribution": {
+    "1": 58,
+    "2": 40,
+    "3": 35,
+    "4": 17,
+    "5": 12,
+    "6": 5,
+    "7": 2,
+    "8": 1
+  }
+}

@@ -1,0 +1,64 @@
+# ==============================
+# Python virtual environments
+# ==============================
+.venv/
+venv/
+env/
+
+# ==============================
+# Python cache files
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# IDE settings
+# ==============================
+.idea/
+.vscode/
+
+# ==============================
+# Operating system files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Logs and temporary files
+# ==============================
+*.log
+*.tmp
+*.temp
+
+# ==============================
+# Experiment tracking
+# ==============================
+mlruns/
+wandb/
+
+# ==============================
+# Model checkpoints
+# Uncomment only if you do NOT want to upload weights
+# ==============================
+# *.pth
+# *.pt
+# *.ckpt
+
+# ==============================
+# Dataset
+# Uncomment only if dataset should not be uploaded
+# ==============================
+# data/
+
+# ==============================
+# Generated outputs
+# Uncomment if you don't want to upload these
+# ==============================
+# results/

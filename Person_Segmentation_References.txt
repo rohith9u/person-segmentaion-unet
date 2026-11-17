@@ -1,0 +1,24 @@
+PERSON SEGMENTATION USING U-NET
+REFERENCED PAPERS AND DATASET LINKS
+
+1. U-Net: Convolutional Networks for Biomedical Image Segmentation
+   Authors: Olaf Ronneberger, Philipp Fischer, Thomas Brox
+   Year: 2015
+   arXiv page: https://arxiv.org/abs/1505.04597
+   PDF: https://arxiv.org/pdf/1505.04597
+
+2. Fully Convolutional Networks for Semantic Segmentation
+   Authors: Jonathan Long, Evan Shelhamer, Trevor Darrell
+   Year: 2015
+   CVPR paper page: https://openaccess.thecvf.com/content_cvpr_2015/html/Long_Fully_Convolutional_Networks_2015_CVPR_paper.html
+   PDF: https://openaccess.thecvf.com/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf
+
+3. Penn-Fudan Database for Pedestrian Detection and Segmentation
+   Dataset page: https://www.cis.upenn.edu/~jshi/ped_html/
+   Dataset ZIP: https://www.cis.upenn.edu/~jshi/ped_html/PennFudanPed.zip
+
+NOTES
+- U-Net is the main segmentation architecture reference.
+- Fully Convolutional Networks is a foundational semantic-segmentation reference.
+- Penn-Fudan is the dataset used in this project.
+- Verify the citation format required by your instructor before final submission.

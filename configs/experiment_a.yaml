@@ -1,0 +1,42 @@
+# Configuration for Experiment A: Baseline U-Net (Unaugmented)
+
+experiment:
+  name: "baseline"
+  description: "Standard U-Net trained on original, unaugmented training images"
+  seed: 42
+
+model:
+  name: "UNet"
+  in_channels: 3
+  out_channels: 1
+  encoder_channels: [32, 64, 128, 256]
+  bottleneck_channels: 512
+  decoder_channels: [256, 128, 64, 32]
+
+training:
+  loss: "BCEWithLogitsLoss"
+  optimizer: "Adam"
+  learning_rate: 0.001
+  weight_decay: 0.0
+  batch_size: 8
+  max_epochs: 35
+  num_workers: 0
+  early_stopping:
+    enabled: true
+    patience: 8
+    metric: "val_iou"
+    mode: "max"
+
+augmentation:
+  enabled: false
+  hflip_prob: 0.0
+  zoom_min: 1.0
+  zoom_max: 1.0
+
+paths:
+  processed_images_dir: "data/processed/images"
+  processed_masks_dir: "data/processed/masks"
+  splits_dir: "splits"
+  checkpoint_file: "models/baseline_unet.pth"
+  curves_file: "results/training_curves/baseline_curves.png"
+  log_file: "results/experiment_logs/baseline_log.json"

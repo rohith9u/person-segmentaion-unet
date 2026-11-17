@@ -1,0 +1,9 @@
+Metric,Baseline,Augmented,Absolute_Delta,Relative_Change
+Test BCE Loss,0.2142,0.1537,-0.0606,-28.28%
+Global Test IoU,0.6035,0.6644,+0.0609,+10.08%
+Global Test F1-Score,0.7527,0.7983,+0.0456,+6.06%
+Global Test Precision,0.7016,0.7897,+0.0881,+12.56%
+Global Test Recall,0.8119,0.8071,-0.0048,-0.59%
+Global Pixel Accuracy,0.9144,0.9346,+0.0202,+2.20%
+Per-Image Mean IoU,0.5983 ± 0.1411,0.6815 ± 0.1554,+0.0832,+13.91%
+Per-Image Mean F1,0.7387 ± 0.1133,0.7991 ± 0.1257,+0.0604,+8.18%
